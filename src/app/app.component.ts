@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent  {
   name = 'Angular';age=24;
 
-  a=[1,2,3,4,5];
+  a=[1,2,3];
 }
