@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular';age=24;
-
   a=[1,2,3];
+  s():void{
+   
+  }
+  
 }
